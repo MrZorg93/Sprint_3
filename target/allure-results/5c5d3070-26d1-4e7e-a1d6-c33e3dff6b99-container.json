@@ -1,0 +1,1 @@
+{"uuid":"5c5d3070-26d1-4e7e-a1d6-c33e3dff6b99","name":"TestDeleteCourier","children":["6b5dcb12-396c-4231-9836-e92e7914222c"],"befores":[{"name":"setUp","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1643918070039,"stop":1643918070039}],"afters":[],"start":1643918070038,"stop":1643918070246}
