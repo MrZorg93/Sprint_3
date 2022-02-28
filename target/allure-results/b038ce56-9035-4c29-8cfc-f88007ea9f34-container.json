@@ -1,0 +1,1 @@
+{"uuid":"b038ce56-9035-4c29-8cfc-f88007ea9f34","name":"Check courier creation without login","children":["25a3756f-136f-4b70-8727-19b35f9dd95f"],"befores":[],"afters":[{"name":"tearDown","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1643918069396,"stop":1643918069397}],"start":1643918069351,"stop":1643918069400}

@@ -1,0 +1,1 @@
+{"uuid":"c8455e6d-4ab2-40c4-b53d-988ff3399bf9","name":"Check courier creation without password","children":["b58e9bab-75b9-4e53-8c80-70f04600779f"],"befores":[],"afters":[{"name":"tearDown","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1643918069623,"stop":1643918069623}],"start":1643918069555,"stop":1643918069624}
